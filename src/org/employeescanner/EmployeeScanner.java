@@ -28,11 +28,11 @@ public class EmployeeScanner {
 	    System.out.println("Salary:"+salary);
 	    System.out.println("Gender:"+c1);
 	    System.out.println("City:"+city);
-<<<<<<< HEAD
+
 	    System.out.println("Tested Employee Scanner");
-=======
+
 	    System.out.println("Employee Details");
->>>>>>> 385ec5209596d2fbdec41505cbd47b99c6b0dea0
+
 		
 		
 		
