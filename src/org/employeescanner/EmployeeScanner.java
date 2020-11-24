@@ -28,7 +28,7 @@ public class EmployeeScanner {
 	    System.out.println("Salary:"+salary);
 	    System.out.println("Gender:"+c1);
 	    System.out.println("City:"+city);
-	    
+	    System.out.println("Employee Details");
 		
 		
 		
